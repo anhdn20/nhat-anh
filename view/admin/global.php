@@ -1,4 +1,0 @@
-<?php
-    $path="./view/images/";
-
-?>
